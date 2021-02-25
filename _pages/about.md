@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))"
+title: "About me ([Fake CV](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 **University of Michigan (2020.09 – 2021.06)**
+
 M.S, ECE, Computer Vision
+
 **Huazhong University of Science and Technology(HUST) (2016.09 – 2020.06)**
+
 B.Eng, Electrical Engineering and Automation
 
 
