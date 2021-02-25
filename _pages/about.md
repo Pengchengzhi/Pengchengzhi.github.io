@@ -10,7 +10,7 @@ redirect_from:
 
 **University of Michigan (2020.09 – 2022.06)** <br>
 M.S, ECE, Computer Vision. <br>
-**Shanghai Jiaotong University (SJTU) (2021.02 - 2021.05)** <br>
+**Shanghai Jiao Tong University (SJTU) (2021.02 - 2021.05)** <br>
 Exchange student. <br>
 **Huazhong University of Science and Technology(HUST) (2016.09 – 2020.06)** <br>
 B.Eng, Electrical Engineering and Automation.
