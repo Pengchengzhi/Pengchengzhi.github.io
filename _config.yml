@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li"
+title                    : "Chengzhi Peng"
 title_separator          : "-"
-name                     : &name "Jian Li"
-description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chengzhi Peng"
+description              : &description "M.S. in Computer Vision, University of Michigan, 2020-2022."
+url                      : https://Pengchengzhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "superlj666/superlj666.github.io"
+repository               : "Pengchengzhi/Pengchengzhi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
