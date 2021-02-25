@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
-  avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-  location         : "Beijing, China"
+  name             : "Chengzhi Peng"
+  avatar           : "avatar.jpg" # "czp.jpg" #
+  bio              : "M.S. in Computer Vision, University of Michigan, 2020-2022."
+  location         : "Shanghai, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "me@lijian.ac.cn"
+  googlescholar    : 
+  email            : "czpeng@umich.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,12 +91,12 @@ author:
   flickr           :
   # facebook         : "profile.php?id=100008003527316"
   foursquare       :
-  github           : "superlj666"
+  github           : "Pengchengzhi"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "superlj666"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
