@@ -15,12 +15,8 @@ Exchange student. <br>
 **Huazhong University of Science and Technology(HUST) (2016.09 – 2020.06)** <br>
 B.Eng, Electrical Engineering and Automation.
 
-# CV
 [[Fake CV 1](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf)]
 <------> [[Fake CV 2](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf)]
-
-# Research
-I'm interested in computer vision, machine learning. Including face alignment, object detection, pattern recognization. 
 
 # Contact
 czpeng@umich.edu
