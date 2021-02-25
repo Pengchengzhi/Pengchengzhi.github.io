@@ -9,11 +9,8 @@ redirect_from:
 ---
 
 **University of Michigan (2020.09 – 2021.06)**
-
 M.S, ECE, Computer Vision
-
 **Huazhong University of Science and Technology(HUST) (2016.09 – 2020.06)**
-
 B.Eng, Electrical Engineering and Automation
 
 
