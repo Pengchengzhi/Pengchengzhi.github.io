@@ -15,7 +15,7 @@ B.Eng, Electrical Engineering and Automation
 
 
 # Research
-I'm interester in computer vision, machine learning. Including face alignment, object detection, pattern recognization. 
+I'm interested in computer vision, machine learning. Including face alignment, object detection, pattern recognization. 
 
 # Projects
 
