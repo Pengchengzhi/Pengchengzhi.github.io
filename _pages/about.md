@@ -9,13 +9,18 @@ redirect_from:
 ---
 
 **University of Michigan (2020.09 – 2021.06)** <br>
-M.S, ECE, Computer Vision <br>
+M.S, ECE, Computer Vision. <br>
+**Shanghai Jiaotong University (SJTU) (2021.02 - 2021.05)** <br>
+Exchange student. <br>
 **Huazhong University of Science and Technology(HUST) (2016.09 – 2020.06)** <br>
-B.Eng, Electrical Engineering and Automation
+B.Eng, Electrical Engineering and Automation.
 
 
 # Research
 I'm interested in computer vision, machine learning. Including face alignment, object detection, pattern recognization. 
+
+# Contact
+czpeng@umich.edu
 
 # Projects
 
