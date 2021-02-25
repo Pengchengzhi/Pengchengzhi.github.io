@@ -7,8 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Yong Liu](https://iie-liuyong.github.io/) and Researcher Weiping Wang. <br>
-I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
+
+**University of Michigan (2020.09 – 2021.06)**
+M.S, ECE, Computer Vision
+**Huazhong University of Science and Technology(HUST) (2016.09 – 2020.06)**
+B.Eng, Electrical Engineering and Automation
+
 
 # Research
 My research interests mainly lie in **efficient large scale machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability of neural networks. <br>
