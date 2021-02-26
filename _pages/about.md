@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**This page is currently under construction**
+<font color=red> **This page is currently under construction** </font>
 
 **University of Michigan (2020.09 – 2022.06)** <br>
 M.S, ECE, Computer Vision. <br>
