@@ -1,1 +1,1 @@
-Copied from [Li Jian](https://lijian.ac.cn/)
+Forked from [Li Jian](https://lijian.ac.cn/)
