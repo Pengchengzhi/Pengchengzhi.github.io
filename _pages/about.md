@@ -19,11 +19,7 @@ redirect_from:
 
 ### **Visiting:**
 
-<p style="text-indent:2em"> <b> Shanghai Jiao Tong University (2021),</b> Instructed by Prof. Wei Shen.</p>
-
-### **Contact:**
-
-czpeng@umich.edu
+<p style="text-indent:2em"> Shanghai Jiao Tong University (2021), instructed by Prof. Wei Shen.</p>
 
 ### Projects
 
