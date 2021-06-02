@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-% <font color=red size=5> This Page is Currently Under Construction </font>
+
+<style type="text/css">
 p{ text-indent:2em;}
+</style>
 
 <div style="line-height:30px;"><b> University of Michigan (2020 – 2022) </b></div>
 <p> M.S, ECE, Computer Vision </p>
