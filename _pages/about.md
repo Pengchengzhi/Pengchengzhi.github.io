@@ -19,8 +19,7 @@ redirect_from:
 
 ### **Visiting:**
 
-<div style="line-height:30px;"><b> Shanghai Jiao Tong University (2021) </b></div>
-Instructed by Prof. Wei Shen.
+<p style="text-indent:2em"> <div style="line-height:30px;"><b> Shanghai Jiao Tong University (2021),</b> Instructed by Prof. Wei Shen.</div></p>
 
 ### **Contact:**
 
