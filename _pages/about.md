@@ -9,8 +9,9 @@ redirect_from:
 ---
 <font color=red size=5> This Page is Currently Under Construction </font>
 
+<div style="line-height:50px;">
 **University of Michigan (2020.09 – 2022.06)** <br>
-M.S, ECE, Computer Vision. <br>
+M.S, ECE, Computer Vision. <br> </div>
 **Shanghai Jiao Tong University (SJTU) (2021.02 - 2021.05)** <br>
 Exchange student. <br>
 **Huazhong University of Science and Technology(HUST) (2016.09 – 2020.06)** <br>
