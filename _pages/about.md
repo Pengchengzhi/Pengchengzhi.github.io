@@ -9,47 +9,33 @@ redirect_from:
 ---
 <font color=red size=5> This Page is Currently Under Construction </font>
 
-<div style="line-height:30px;"><b> University of Michigan (2020 – 2022) </b>
-M.S, ECE, Computer Vision </div>
+<div style="line-height:30px;"><b> University of Michigan (2020 – 2022) </b></div>
+M.S, ECE, Computer Vision 
 
-<div style="line-height:30px;"><b> Huazhong University of Science and Technology (2016 – 2020) </b>
-B.S, EE, Electrical Engineering and Automation </div>
-
-### **Visiting**
-
-
-Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
-
-<div style="line-height:40px;"><b> 40 niversity of Michigan (2020.09 – 2022.06) </b>
-M.S, ECE, Computer Vision</div>
-
-Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
-
-<div style="line-height:30px;"><b> 30 niversity of Michigan (2020.09 – 2022.06) </b>
-M.S, ECE, Computer Vision</div>
-
-Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
-
-<div style="line-height:20px;"><b> niversity of Michigan (2020.09 – 2022.06) </b></div>
-M.S, ECE, Computer Vision
-
-
-Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
-
-**University of Michigan (2020.09 – 2022.06)** <br>
-M.S, ECE, Computer Vision. <br> 
-**Shanghai Jiao Tong University (SJTU) (2021.02 - 2021.05)** <br>
-Exchange student. <br>
-**Huazhong University of Science and Technology(HUST) (2016.09 – 2020.06)** <br>
-B.Eng, Electrical Engineering and Automation.
+<div style="line-height:30px;"><b> Huazhong University of Science and Technology (2016 – 2020) </b></div>
+B.S, EE, Electrical Engineering and Automation 
 
 [[Fake CV 1](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf)]
 <------> [[Fake CV 2](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf)]
 
-# Contact
+### **Visiting**
+
+<div style="line-height:30px;"><b> Shanghai Jiao Tong University (2021) </b></div>
+Instructed by Prof. Wei Shen.
+
+### **Contact**
+
 czpeng@umich.edu
 
-# Projects
+### Projects
+
+Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
+Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
+
+
+
+
+
 
 
 <!---Activity and Service--->
