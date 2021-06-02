@@ -12,8 +12,8 @@ redirect_from:
 <div style="line-height:30px;"><b> University of Michigan (2020 – 2022) </b>
 M.S, ECE, Computer Vision </div>
 
-<div style="line-height:30px;"><b> Huazhong University of Science and Technology (2016 – 2020) </b><
-B.S, EE, Electrical Engineering and Automation/div>
+<div style="line-height:30px;"><b> Huazhong University of Science and Technology (2016 – 2020) </b>
+B.S, EE, Electrical Engineering and Automation </div>
 
 ### **Visiting**
 
