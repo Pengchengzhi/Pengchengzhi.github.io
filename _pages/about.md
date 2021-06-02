@@ -1,16 +1,17 @@
 ---
 permalink: /
-title: "About me"
+title: "Education"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<font color=red size=5> This Page is Currently Under Construction </font>
+% <font color=red size=5> This Page is Currently Under Construction </font>
+p{ text-indent:2em;}
 
 <div style="line-height:30px;"><b> University of Michigan (2020 – 2022) </b></div>
-M.S, ECE, Computer Vision 
+<p> M.S, ECE, Computer Vision </p>
 
 <div style="line-height:30px;"><b> Huazhong University of Science and Technology (2016 – 2020) </b></div>
 B.S, EE, Electrical Engineering and Automation 
