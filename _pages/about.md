@@ -13,6 +13,7 @@ redirect_from:
 M.S, ECE, Computer Vision
 <div style="line-height:50px;"><b> niversity of Michigan (2020.09 – 2022.06) </b></div>
 M.S, ECE, Computer Vision
+
 **University of Michigan (2020.09 – 2022.06)** <br>
 M.S, ECE, Computer Vision. <br> 
 **Shanghai Jiao Tong University (SJTU) (2021.02 - 2021.05)** <br>
