@@ -9,13 +9,11 @@ redirect_from:
 ---
 <font color=red size=5> This Page is Currently Under Construction </font>
 
-<div style="line-height:30px;"><b> 30 niversity of Michigan (2020.09 – 2022.06) </b>
+<div style="line-height:30px;"><b> University of Michigan (2020.09 – 2022.06) </b></div>
+M.S, ECE, Computer Vision
 
-M.S, ECE, Computer Vision</div>
-
-<div style="line-height:30px;"><b> 30 niversity of Michigan (2020.09 – 2022.06) </b>
-
-M.S, ECE, Computer Vision</div>
+<div style="line-height:30px;"><b> University of Michigan (2020.09 – 2022.06) </b></div>
+M.S, ECE, Computer Vision
 
 Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
 
