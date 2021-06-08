@@ -30,15 +30,13 @@ author_profile: true
 
 ## 主&emsp;&emsp;编：
 
-![ljt](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue/feiyue-1.jpg)
-![lhy](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue/feiyue-2.jpg)
-![pcz](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue/feiyue-3.jpg)
-
-<img src="https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue/feiyue-1.jpg" alt="some_text"> 
+刘剑涛 &emsp;&emsp; 李弘毅 &emsp;&emsp; 彭成志
 
 ## 编&emsp;&emsp;委：
 
+张雅萱 &emsp;&emsp; 李&emsp;越  &emsp;&emsp; 黄子安
 
+罗&emsp;斌 &emsp;&emsp; 顾天存 &emsp;&emsp; 李玥廷
 
 ## 特邀编写顾问：
 
