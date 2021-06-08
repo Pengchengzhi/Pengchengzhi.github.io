@@ -19,12 +19,6 @@ I am currently a master student in <b>University of Michigan</b> (2020 – 2022)
   
 Last updated: 2021.06.08
 
-### Projects
-
-Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
-Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence Sentence 
-
-
 
 
 
