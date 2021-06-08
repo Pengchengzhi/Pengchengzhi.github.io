@@ -30,6 +30,8 @@ author_profile: true
 
 ## 主&emsp;&emsp;编：
 
+<img src="https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue/feiyue-1.jpg" alt="some_text"> 
+
 &emsp;&emsp;刘剑涛 &emsp;&emsp; 李弘毅 &emsp;&emsp; 彭成志
 
 ## 编&emsp;&emsp;委：
