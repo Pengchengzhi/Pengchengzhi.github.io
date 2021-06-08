@@ -24,8 +24,8 @@ main:
   #- title: "Blogs"
   #  url: /year-archive/
   
-  - title: "Projects"
-    url: /projects/
+#   - title: "Projects"
+#     url: /projects/
   
   # - title: "简体中文"
   #  url: /chinese/  
