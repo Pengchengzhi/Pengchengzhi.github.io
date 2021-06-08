@@ -40,15 +40,19 @@ author_profile: true
 
 ## 特邀编写顾问：
 
+&emsp;&emsp;刘明辰&emsp;&emsp;陈雄超
 
 ## 致&emsp;&emsp;谢：
 
+&emsp;&emsp;感谢学院领导、教务科老师、各年级辅导员对本项目的支持。感谢所有为本书供稿的学长学姐和同学们、以及所有在本书编写过程中给出意见的同学、老师。感谢学弟学妹对本书的关注，祝各位圆梦理想的大学。
 
 ## 友情链接：
 
+[华中科技大学](https://www.hust.edu.cn/)
 
+[电气与电子工程学院](http://ceee.hust.edu.cn/)
 
-
+[华中科技大学 OEI & SES 飞跃手册](https://hust-feiyue.github.io/)
 
 
 
