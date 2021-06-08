@@ -7,7 +7,7 @@ author_profile: true
  [下载：华中大电气飞跃手册 2020.pdf](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/feiyue/%E5%8D%8E%E4%B8%AD%E5%A4%A7%E7%94%B5%E6%B0%94%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C.pdf)
  
  
- <a href="https://www.hust.edu.cn/">链接文本</a> 
+ <center><a href="https://www.hust.edu.cn/">链接文本</a> </center>
     
 ## 介&emsp;&emsp;绍：
 
