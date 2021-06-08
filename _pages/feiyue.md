@@ -20,9 +20,9 @@ author_profile: true
 
 主&emsp;任：文劲宇
 
-副主任：李红斌    罗&emsp;&emsp;珺
+副主任：李红斌 &emsp;&emsp; 罗&emsp;珺
 
-委&emsp;员：陈&emsp;&emsp;宇    朱秋华    周&emsp;&emsp;阳    萧&emsp;&emsp;珺    许文立    柳子逊    程曜于    李&emsp;&emsp;毅
+委&emsp;员：陈&emsp;&emsp;宇  &emsp;&emsp;  朱秋华  &emsp;&emsp;  周&emsp;阳  &emsp;&emsp;  萧&emsp;珺   &emsp;&emsp; 许文立  &emsp;&emsp;  柳子逊   &emsp;&emsp; 程曜于 &emsp;&emsp;   李&emsp;毅
 
 ## 主编：
 
