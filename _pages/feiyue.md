@@ -50,14 +50,9 @@ author_profile: true
 
 ## 友情链接：
 
-[华中科技大学](https://www.hust.edu.cn/)
-
-[电气与电子工程学院](http://ceee.hust.edu.cn/)
-
-[华中科技大学 OEI & SES 飞跃手册](https://hust-feiyue.github.io/)
-
-
-
+<center> <a href="https://www.hust.edu.cn/">华中科技大学</a> 
+ <a href="http://ceee.hust.edu.cn/">电气与电子工程学院</a> 
+ <a href="https://hust-feiyue.github.io/">华中科技大学 OEI & SES 飞跃手册</a> </center>
 
 
 
