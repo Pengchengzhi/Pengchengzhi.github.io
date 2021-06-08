@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student in <b>University of Michigan<\b> (2020 – 2022), major in <b>Computer Vision<\b>, ECE. Before that, I received B.S degree from <b>Huazhong University of Science and Technology<\b> (2016 – 2020), major in <b>Electrical Engineering and Automation<b>.
+I am currently a master student in <b>University of Michigan</b> (2020 – 2022), major in <b>Computer Vision</b>, ECE. Before that, I received B.S degree from <b>Huazhong University of Science and Technology</b> (2016 – 2020), major in <b>Electrical Engineering and Automation</b>.
 
 [[Fake CV 1](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf)]
 <------> [[Fake CV 2](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf)]
