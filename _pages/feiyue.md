@@ -3,7 +3,8 @@ title: "<center>飞跃手册</center>"
 permalink: /feiyue/
 author_profile: true
 ---
-
+<center># [[Fake CV 1](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf)]/center>
+    
 ## 介&emsp;&emsp;绍：
 
 &emsp;&emsp;这是一本面向电气学子的申请指南，由华中科技大学电气学院九位 16 级本科生在学院的领导与支持下编写而成。总结了编委会成员的留学申请经验，涵盖关于留学申请的常见问题，包含道路选择、托福雅思 GRE 考试、科研暑研、套瓷、签证等内容。意图帮助大家对留学申请全过程建立起比较清晰、全面的认识。除此之外，编委会还整理了学校海外交流项目政策并汇编了电气学院往届学长学姐的留学申请经历，帮助同学们更好地明确自己的定位，更加合理地进行学校选择和申请准备。
