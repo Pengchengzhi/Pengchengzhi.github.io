@@ -29,7 +29,7 @@ author_profile: true
 
 ## 主&emsp;&emsp;编：
 
-[刘剑涛](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue-1.jpg)
+![刘剑涛](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue-1.jpg)
 
 ## 编&emsp;&emsp;委：
 
