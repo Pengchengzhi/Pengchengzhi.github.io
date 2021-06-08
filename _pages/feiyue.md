@@ -4,7 +4,7 @@ permalink: /feiyue/
 author_profile: true
 ---
 
-<center> [下载： 华中大电气飞跃手册 2020.pdf](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf) </center> 
+<center> [file2020.pdf](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/files/cv/fake%20cv.pdf) </center> 
     
 ## 介&emsp;&emsp;绍：
 
