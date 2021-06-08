@@ -30,11 +30,11 @@ author_profile: true
 
 ## 主&emsp;&emsp;编：
 
-[ljt](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue-1.jpg)
+![ljt](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue-1.jpg)
 
-[lhy](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue-2.jpg)
+![lhy](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue-2.jpg)
 
-[pcz](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue-3.jpg)
+![pcz](https://github.com/Pengchengzhi/Pengchengzhi.github.io/blob/master/images/feiyue-3.jpg)
 
 ## 编&emsp;&emsp;委：
 
