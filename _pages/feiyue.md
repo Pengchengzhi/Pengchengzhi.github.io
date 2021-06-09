@@ -30,13 +30,15 @@ author_profile: true
 
 ## 主&emsp;&emsp;编：
 
-&emsp;&emsp;刘剑涛 &emsp;&emsp; 李弘毅 &emsp;&emsp; 彭成志
+&emsp;&emsp;刘剑涛 &emsp;&emsp; <a href="http://hongyili.net/">李弘毅</a>  &emsp;&emsp; 彭成志
 
 ## 编&emsp;&emsp;委：
 
 &emsp;&emsp;张雅萱 &emsp;&emsp; 李&emsp;越  &emsp;&emsp; 黄子安
 
 &emsp;&emsp;罗&emsp;斌 &emsp;&emsp; 顾天存 &emsp;&emsp; 李玥廷
+
+
 
 ## 特邀编写顾问：
 
