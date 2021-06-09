@@ -42,7 +42,7 @@ author_profile: true
 
 ## 特邀编写顾问：
 
-&emsp;&emsp;刘明辰&emsp;&emsp;陈雄超
+&emsp;&emsp;刘明辰 &emsp;&emsp; 陈雄超
 
 ## 致&emsp;&emsp;谢：
 
