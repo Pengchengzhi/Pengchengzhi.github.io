@@ -17,10 +17,6 @@ I am currently a master student in <b>University of Michigan</b> (2020 – 2022)
 
 * Shanghai Jiao Tong University (2021), supervised by <a href="https://shenwei1231.github.io/">Prof. Wei Shen</a>.
 
-textteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;ajtextteahuohisahfwai;oghuiabzhf;aj
-
-* <p style="text-indent:2em"> Shanghai Jiao Tong University (2021), supervised by <a href="https://shenwei1231.github.io/">Prof. Wei Shen</a>.</p>
-  
 Last modified: June 08, 2021
 
 
