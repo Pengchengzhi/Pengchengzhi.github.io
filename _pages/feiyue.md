@@ -35,20 +35,19 @@ author_profile: true
 
 &emsp;&emsp;刘剑涛 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="http://hongyili.net/">李弘毅</a>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 彭成志
 
-Test: centering
-
-<center><img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-1.jpg"/> 
-<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-2.jpg"/> 
-<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-3.jpg"/></center>
-
-<center>刘剑涛 <a href="http://hongyili.net/">李弘毅</a> 彭成志</center>
-
-
 ## 编&emsp;&emsp;委：
 
-&emsp;&emsp;张雅萱 &emsp;&emsp; 李&emsp;越  &emsp;&emsp; 黄子安
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-4.jpg"/> &emsp;&emsp; 
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-5.jpg"/> &emsp;&emsp; 
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-6.jpg"/>
 
-&emsp;&emsp;罗&emsp;斌 &emsp;&emsp; 顾天存 &emsp;&emsp; 李玥廷
+&emsp;&emsp;张雅萱 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 李&emsp;越  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 黄子安
+
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-7.jpg"/> &emsp;&emsp; 
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-8.jpg"/> &emsp;&emsp; 
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-9.jpg"/>
+
+&emsp;&emsp;罗&emsp;斌 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 顾天存  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 李玥廷
 
 
 
