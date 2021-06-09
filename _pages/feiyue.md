@@ -29,11 +29,11 @@ author_profile: true
 &emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;  许文立  &emsp;&emsp;  柳子逊   &emsp;&emsp; 程曜于 &emsp;&emsp;   李&emsp;毅
 
 ## 主&emsp;&emsp;编：
-<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-1.jpg"/> &emsp;&emsp; 
-<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-2.jpg"/> &emsp;&emsp; 
+&emsp;&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-1.jpg"/> &emsp;&emsp;&emsp;&emsp; 
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-2.jpg"/> &emsp;&emsp;&emsp;&emsp; 
 <img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-3.jpg"/>
 
-&emsp;&emsp;刘剑涛 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="http://hongyili.net/">李弘毅</a>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 彭成志
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;刘剑涛 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="http://hongyili.net/">李弘毅</a>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 彭成志
 
 ## 编&emsp;&emsp;委：
 
@@ -43,11 +43,11 @@ author_profile: true
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;张雅萱 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 李&emsp;越  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 黄子安
 
-<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-7.jpg"/> &emsp;&emsp; 
-<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-8.jpg"/> &emsp;&emsp; 
+&emsp;&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-7.jpg"/> &emsp;&emsp;&emsp;&emsp; 
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-8.jpg"/> &emsp;&emsp;&emsp;&emsp; 
 <img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-9.jpg"/>
 
-&emsp;&emsp;罗&emsp;斌 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 顾天存  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 李玥廷
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;罗&emsp;斌 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 顾天存  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 李玥廷
 
 
 
