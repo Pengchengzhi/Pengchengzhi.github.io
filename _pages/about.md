@@ -15,9 +15,9 @@ I am currently a master student in <b>University of Michigan</b> (2020 – 2022)
 
 ### **Visiting:**
 
-<p style="text-indent:2em"> Shanghai Jiao Tong University (2021), supervised by <a href="https://shenwei1231.github.io/">Prof. Wei Shen</a>.</p>
+* <p style="text-indent:2em"> Shanghai Jiao Tong University (2021), supervised by <a href="https://shenwei1231.github.io/">Prof. Wei Shen</a>.</p>
   
-* Last modified: June 08, 2021
+Last modified: June 08, 2021
 
 
 
