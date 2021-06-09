@@ -20,11 +20,11 @@ author_profile: true
 
 ## 指导委员会：
 
-主&emsp;任：&emsp;&emsp;文劲宇
+<b>主&emsp;任：</b>&emsp;&emsp;文劲宇
 
-副主任：&emsp;&emsp;李红斌 &emsp;&emsp; 罗&emsp;珺
+<b>副主任：</b>&emsp;&emsp;李红斌 &emsp;&emsp; 罗&emsp;珺
 
-委&emsp;员：&emsp;&emsp;陈&emsp;宇  &emsp;&emsp;  朱秋华  &emsp;&emsp;  周&emsp;阳  &emsp;&emsp;  萧&emsp;珺 
+<b>委&emsp;员：</b>&emsp;&emsp;陈&emsp;宇  &emsp;&emsp;  朱秋华  &emsp;&emsp;  周&emsp;阳  &emsp;&emsp;  萧&emsp;珺 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;  许文立  &emsp;&emsp;  柳子逊   &emsp;&emsp; 程曜于 &emsp;&emsp;   李&emsp;毅
 
