@@ -2,6 +2,9 @@
 main:
   - title: "飞跃手册"
     url: /feiyue/
+    
+  - title: "Test page"
+    url: /test/
   
   #- title: "Publications"
   #  url: /publications/
