@@ -35,6 +35,15 @@ author_profile: true
 
 &emsp;&emsp;刘剑涛 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="http://hongyili.net/">李弘毅</a>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 彭成志
 
+Test: centering
+
+<center><img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-1.jpg"/> 
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-2.jpg"/> 
+<img src="https://raw.githubusercontent.com/Pengchengzhi/Pengchengzhi.github.io/master/images/feiyue/feiyue-3.jpg"/></center>
+
+<center>刘剑涛 <a href="http://hongyili.net/">李弘毅</a> 彭成志</center>
+
+
 ## 编&emsp;&emsp;委：
 
 &emsp;&emsp;张雅萱 &emsp;&emsp; 李&emsp;越  &emsp;&emsp; 黄子安
