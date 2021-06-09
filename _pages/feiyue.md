@@ -50,8 +50,6 @@ author_profile: true
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;罗&emsp;斌 &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 顾天存  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 李玥廷
 
-how about this
-
 ## 特邀编写顾问：
 
 &emsp;&emsp;刘明辰 &emsp;&emsp; 陈雄超
